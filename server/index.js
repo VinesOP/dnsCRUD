@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(cors());
 
 mongoose.connect(
-    "mongodb+srv://shashankkaran:ruchi@canary.xot3kle.mongodb.net/?retryWrites=true&w=majority&appName=canary",
+    "mongodb+srv://vinitkumartisri:ruchi@vin000.ohzhufg.mongodb.net/?retryWrites=true&w=majority",
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
